@@ -1,0 +1,9 @@
+   venv/
+   dataset/
+   real_subset/
+   fake_subset/
+   archive/
+   archive.zip
+   *.png
+   __pycache__/
+
